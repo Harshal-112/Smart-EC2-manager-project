@@ -53,7 +53,12 @@ pip install boto3
 3. Run the script:
 
 ```bash
-python script.py
+python ec2_automation.py
+```
+#OR
+
+```bash
+python3 ec2_automation.py
 ```
 
 ---

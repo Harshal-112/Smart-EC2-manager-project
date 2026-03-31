@@ -79,6 +79,12 @@ python3 ec2_automation.py
 
 ---
 
+## Demonstration
+Screenshots are available in:
+```bash
+docs/
+```
+
 ## ⚠️ Limitations
 
 * Works only for a single AWS region (hardcoded)
